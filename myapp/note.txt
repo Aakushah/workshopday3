@@ -1,0 +1,18 @@
+//express keyword
+npm i express-gererator -g
+express --view=ejs myapp
+cd myapp
+npm install
+npm start
+
+//express js
+npm init --y
+npm i express -g
+npm i express --save
+
+
+//nodemon 
+
+npm init --y
+npm i nodemon -g
+npm i node --save

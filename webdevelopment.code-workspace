@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/DELL/OneDrive/Desktop/webdevelopment"
+		},
+		{
+			"path": "C:/Users/DELL/OneDrive/Desktop/portfolio"
+		},
+		{
+			"path": "../../workshop"
+		},
+		{
+			"path": "../puexpressjs"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webdevelopment"
+	}
+}
